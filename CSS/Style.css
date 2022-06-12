@@ -145,6 +145,7 @@ a {
 #section1 .items .item {
   flex: 1;
   text-align: center;
+  padding: 1rem;
 }
 #section1 .items .item i {
   background: orange;
